@@ -1,0 +1,36 @@
+
+h2 {
+    background-color: crimson;
+}
+#dv {
+    margin-left: 600px;
+}
+#dvv {
+    margin-left: 36px;
+}
+body {
+    background-image: url(./divine.jpg);
+    background-position: center;
+}
+#money {
+    margin-left: 415px;
+    height: 635px;
+}
+#sc {
+    height: 500px;
+    margin-left: 250px;
+}
+p {
+    font-weight: 600;
+    line-height: 35px;
+    word-spacing: 5px;
+    text-align: center;
+    font-size: larger;
+
+}
+.utube {
+    margin-left: 458px;
+}
+#ytdc {
+    margin-left: 638px;
+}
